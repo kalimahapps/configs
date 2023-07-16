@@ -12,6 +12,10 @@
 			]
 		}
 	},
+	"editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+	"terminal.integrated.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+	"editor.lineHeight": 30,
+	"terminal.integrated.lineHeight": 1.15,
 	"terminal.integrated.tabs.enabled": true,
 	"editor.lineNumbers": "interval",
 	"search.exclude": {
