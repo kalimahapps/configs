@@ -39,27 +39,32 @@
 	},
 	"eslint.validate": [
 		"javascript",
-		"javascriptreact",
-		"typescript",
-		"typescriptreact"
+	        "javascriptreact",
+	        "typescript",
+	        "typescriptreact",
+	        "json",
+	        "jsonc",
+	        "json5"
 	],
-	"eslint.packageManager": "pnpm",
 	"editor.defaultFormatter": null,
 	"prettier.enable": false,
 	"cSpell.allowCompoundWords": true,
 	"cSpell.language": "en,en-US",
 	"files.eol": "\n",
+	"files.autoSave": "onFocusChange",
+	"files.trimTrailingWhitespace": true,
 	"search.collapseResults": "alwaysExpand",
 	"editor.formatOnType": false,
 	"editor.formatOnPaste": false,
 	"editor.formatOnSave": true,
 	"editor.autoIndent": "advanced",
 	"git.showPushSuccessNotification": true,
+	"git.inputValidationLength": 100,
+    	"git.inputValidationSubjectLength": 70,
 	"editor.snippetSuggestions": "bottom",
 	"workbench.editor.enablePreview": true,
 	"workbench.editor.enablePreviewFromQuickOpen": true,
 	"workbench.tree.indent": 20,
-	"files.trimTrailingWhitespace": true,
 	"explorer.openEditors.visible": 0,
 	"tailwindCSS.emmetCompletions": true,
 	"css.validate": false,
@@ -93,5 +98,8 @@
 	},
 	"[scss]": {
 		"editor.defaultFormatter": "vscode.css-language-features"
-	}
+	},
+	 "[php]": {
+	        "editor.defaultFormatter": "KalimahApps.taqwim"
+	    }
 }
