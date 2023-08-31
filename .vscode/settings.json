@@ -102,5 +102,9 @@
 	},
 	 "[php]": {
 	        "editor.defaultFormatter": "KalimahApps.taqwim"
-	    }
+	    },
+	"[vue]": {
+		"editor.defaultFormatter": null,
+		"editor.formatOnSave": false
+	}
 }
