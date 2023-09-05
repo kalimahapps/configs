@@ -105,6 +105,7 @@
 	    },
 	"[vue]": {
 		"editor.defaultFormatter": null,
-		"editor.formatOnSave": false
+		"editor.formatOnSave": false,
+		"editor.codeLens": false
 	}
 }
