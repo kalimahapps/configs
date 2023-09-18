@@ -66,7 +66,6 @@
 	"workbench.editor.enablePreview": true,
 	"workbench.editor.enablePreviewFromQuickOpen": true,
 	"workbench.tree.indent": 20,
-	"explorer.openEditors.visible": 0,
 	"tailwindCSS.emmetCompletions": true,
 	"css.validate": false,
 	"scss.validate": false,
