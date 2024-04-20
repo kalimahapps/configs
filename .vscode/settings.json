@@ -59,6 +59,7 @@
 	"editor.formatOnPaste": false,
 	"editor.formatOnSave": true,
 	"editor.autoIndent": "advanced",
+	"editor.minimap.enabled": false,
 	"git.showPushSuccessNotification": true,
 	"git.inputValidationLength": 100,
     	"git.inputValidationSubjectLength": 70,
