@@ -46,7 +46,9 @@
 		"json",
 		"jsonc",
 		"json5",
-		"vue"
+		"vue",
+		"yml",
+		"yaml"
 	],
 	"editor.defaultFormatter": null,
 	"cSpell.allowCompoundWords": true,
