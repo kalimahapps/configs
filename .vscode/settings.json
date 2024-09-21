@@ -84,6 +84,7 @@
 	"editor.stickyScroll.enabled": true,
 	"markdown.updateLinksOnFileMove.enabled": "prompt",
 	"gitlens.codeLens.enabled": false,
+	"fileNestingUpdater.autoUpdate": true,
 	"cSpell.words": [
 		"kalimahapps"
 	],
