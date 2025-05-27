@@ -12,6 +12,9 @@
 			]
 		}
 	},
+	"github.copilot.advanced": {
+		"authProvider": "github"
+	},
 	"editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
 	"terminal.integrated.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
 	"editor.lineHeight": 30,
