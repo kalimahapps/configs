@@ -81,6 +81,7 @@
 		"out": false
 	},
 	"workbench.colorTheme": "Jameel",
+	"workbench.experimental.modernUI": false,
 	"workbench.iconTheme": "file-icons",
 	"typescript.tsc.autoDetect": "off",
 	"typescript.tsdk": "node_modules\\typescript\\lib",
